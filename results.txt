@@ -1,0 +1,6 @@
+Name: Tushar Gupta, Roll No: 44, Total: 240, Percentage: 80.00%, Result: Pass
+Name: Dixit kumar, Roll No: 22, Total: 212, Percentage: 70.67%, Result: Pass
+Name: Chetan jeena, Roll No: 21, Total: 239, Percentage: 79.67%, Result: Pass
+Name: sourabh, Roll No: 28, Total: 252, Percentage: 84.00%, Result: Pass
+Name: Pahal Tiwari, Roll No: 8, Total: 350, Percentage: 87.50%, Result: Pass
+Name: Rajat Biwas, Roll No: 28, Total: 319, Percentage: 79.75%, Result: Pass

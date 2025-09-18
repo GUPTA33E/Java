@@ -1,0 +1,7 @@
+Ticket ID: TICK5571
+Name: Pinky 
+Bus: BUS202
+Seats: 11
+Date: 17/09/2025
+Payment: Cash
+Fare: ₹2200
